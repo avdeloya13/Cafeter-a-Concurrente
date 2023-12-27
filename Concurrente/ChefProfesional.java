@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /** 
- * Clase Chef Profesional (chef de HarryHousen's). Para cafeteria.
+ * Clase Chef Profesional.
  * @author Ana Valeria Deloya Andrade
  * @author Erick Bernal Marquez
  */
